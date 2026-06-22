@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/ay89575820/leetcode/tree/master/0933-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ay89575820/leetcode/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ay89575820/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ay89575820/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
