@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ay89575820/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ay89575820/leetcode/tree/master/0217-contains-duplicate) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ay89575820/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1306-jump-game-iii](https://github.com/ay89575820/leetcode/tree/master/1306-jump-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ay89575820/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/ay89575820/leetcode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/ay89575820/leetcode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
