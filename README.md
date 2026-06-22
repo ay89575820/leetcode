@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ay89575820/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ay89575820/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ay89575820/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ay89575820/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ay89575820/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ay89575820/leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ay89575820/leetcode/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ay89575820/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
