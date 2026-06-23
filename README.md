@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ay89575820/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ay89575820/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ay89575820/leetcode/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/ay89575820/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/ay89575820/leetcode/tree/master/0704-binary-search) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ay89575820/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1306-jump-game-iii](https://github.com/ay89575820/leetcode/tree/master/1306-jump-game-iii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ay89575820/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/ay89575820/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -138,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/ay89575820/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ay89575820/leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ay89575820/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ay89575820/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
