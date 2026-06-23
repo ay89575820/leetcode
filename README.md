@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ay89575820/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ay89575820/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ay89575820/leetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/ay89575820/leetcode/tree/master/0704-binary-search) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ay89575820/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1306-jump-game-iii](https://github.com/ay89575820/leetcode/tree/master/1306-jump-game-iii) |
 ## Hash Table
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ay89575820/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ay89575820/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
