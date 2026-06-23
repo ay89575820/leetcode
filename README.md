@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/ay89575820/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1306-jump-game-iii](https://github.com/ay89575820/leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -119,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ay89575820/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ay89575820/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ay89575820/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0538-convert-bst-to-greater-tree](https://github.com/ay89575820/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/ay89575820/leetcode/tree/master/0089-gray-code) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/ay89575820/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
