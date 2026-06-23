@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ay89575820/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ay89575820/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ay89575820/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ay89575820/leetcode/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ay89575820/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ay89575820/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/ay89575820/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ay89575820/leetcode/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/ay89575820/leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/ay89575820/leetcode/tree/master/0231-power-of-two) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ay89575820/leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ay89575820/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ay89575820/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
