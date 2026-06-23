@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ay89575820/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/ay89575820/leetcode/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/ay89575820/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ay89575820/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ay89575820/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ay89575820/leetcode/tree/master/0169-majority-element) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ay89575820/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ay89575820/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ay89575820/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ay89575820/leetcode/tree/master/0242-valid-anagram) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ay89575820/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ay89575820/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ay89575820/leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
